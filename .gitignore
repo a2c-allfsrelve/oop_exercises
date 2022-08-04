@@ -1,2 +1,3 @@
-# classファイルは要らない
-*.class
+# 
+\bin
+.\vscode
